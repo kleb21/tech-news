@@ -1,2 +1,1 @@
-# tech-news
-web page about tech news
+just a page to practice html, css and a little bit of js()
